@@ -1,5 +1,6 @@
 class A
 {
+    public int b=5;
     public int x= 10;
     public A(){ System.out.println("A");}
 }
